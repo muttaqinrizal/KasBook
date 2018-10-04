@@ -1,6 +1,6 @@
 # Simple-CRUD-CI3
 CRUD Sederhana menggunakan CodeIgniter 3 dan Bootstrap
-
+by Wahyu Kuncoro
 <h2>Instalasi</h2>
 1. Clone atau Download repo ini.
 2. Buat database dengan nama "ci3_master", lalu import database yang ada pada folder "db".
