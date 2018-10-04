@@ -8,3 +8,7 @@ CRUD Sederhana menggunakan CodeIgniter 3 dan Bootstrap
 
 <h2>Latihan</h2>
 1. Implementasikan pada Master Project Inventory
+
+2. fiwbefiwef .. 
+
+3. wefwe
